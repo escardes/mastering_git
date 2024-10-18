@@ -8,5 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="MongoDB" />
+    <orderEntry type="module" module-name="Porfolio_Eureka" />
   </component>
 </module>
